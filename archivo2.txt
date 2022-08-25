@@ -1,1 +1,3 @@
-Este es el archivo #2.
+Este es el archivo #2, voy a meter nuevos cambios.
+
+Otro texto
